@@ -8,11 +8,12 @@ Mensajes en tiempo real: Utiliza WebSockets para la comunicación en tiempo real
 UI amigable: Implementación de Semantic UI para una interfaz limpia, con tarjetas, formularios y botones estilizados.
 Auto-scroll: El chat se desplaza automáticamente al último mensaje gracias a la librería react-scroll-to-bottom.
 Indicadores de autor: Los mensajes enviados por el usuario se alinean a la derecha y los mensajes recibidos por otros usuarios a la izquierda, con estilos diferenciados.
+
 Tecnologías usadas:
-Frontend: React, Semantic UI
-Backend: Node.js, Express, Socket.IO
-Estilo: CSS
-WebSockets: Comunicación en tiempo real con Socket.IO
+* Frontend: React, Semantic UI
+* Backend: Node.js, Express, Socket.IO
+* Estilo: CSS
+* WebSockets: Comunicación en tiempo real con Socket.IO
 
 ![image](https://github.com/user-attachments/assets/0bf1fd6e-4572-4f31-b0ef-108a4d91b4ce)
 ![image](https://github.com/user-attachments/assets/93153e83-8c7b-4de9-a532-f27c65d8934e)
